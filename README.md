@@ -4,7 +4,7 @@ This repository contains **code, datasets, and figures** for an AI-driven infect
 ## 📂 Repository Structure
 📦 infectious-disease-analysis
 ┣ 📂 code # Scripts for analysis (Jupyter Notebook)
-┣ 📂 data # Datasets (CSV)
+┣ 📂 raw data # Datasets (CSV)
 ┣ 📂 figures # Generated visualizations
 ┣ 📜 .gitignore # Excludes unnecessary files
 ┣ 📜 README.md # Repository information
